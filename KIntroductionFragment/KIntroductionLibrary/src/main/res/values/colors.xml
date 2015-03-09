@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="dot_on">#FFFFFF</color>
+    <color name="dot_off">#CCCCCC</color>
+
+    <color name="title">#FFFFFF</color>
+    <color name="text">#FFFFFF</color>
+
+
+    <color name="line">#60000000</color>
+
+</resources>
