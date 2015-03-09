@@ -32,11 +32,11 @@ public abstract class KIntroductionActivity extends ActionBarActivity implements
     private ViewPager mPager;
     private PagerAdapter mPagerAdapter;
     private LinearLayout layoutDots;
-    private List<ImageView> dotsArray = new ArrayList<>();
+    private List<ImageView> dotsArray = new ArrayList<ImageView>();
     private Drawable unseledDrawable = null;
     private LinearLayout container = null;
     private Drawable seletedDrawable = null;
-    private List<Fragment> fragmentsToDisplay = new ArrayList<>();
+    private List<Fragment> fragmentsToDisplay = new ArrayList<Fragment>();
     private DataToDisplay dataToDisplay = null;
 
 
