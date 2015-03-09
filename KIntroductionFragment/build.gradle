@@ -17,3 +17,5 @@ allprojects {
         jcenter()
     }
 }
+//apply from: 'https://raw.githubusercontent.com/keensoft/KIntroductionFragment/master/KIntroductionFragment/gradle-local-mvn-push.gradle'
+apply from: './gradle-local-mvn-push.gradle'
