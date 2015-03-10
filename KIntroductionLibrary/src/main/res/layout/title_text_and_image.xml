@@ -31,7 +31,6 @@
         android:layout_width="@dimen/img_fragment_height"
         android:layout_height="@dimen/img_fragment_weight"
         android:layout_margin="@dimen/img_fragment_margin"
-        android:src="@drawable/circle"
         android:id="@+id/imageView"
         android:layout_gravity="center" />
 </LinearLayout>
