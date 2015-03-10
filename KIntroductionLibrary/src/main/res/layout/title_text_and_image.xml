@@ -28,8 +28,8 @@
             android:id="@+id/text" />
     </ScrollView>
     <ImageView
-        android:layout_width="@dimen/img_fragment_height"
-        android:layout_height="@dimen/img_fragment_weight"
+        android:layout_width="@dimen/img_fragment_width"
+        android:layout_height="@dimen/img_fragment_height"
         android:layout_margin="@dimen/img_fragment_margin"
         android:id="@+id/imageView"
         android:layout_gravity="center" />
