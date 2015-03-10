@@ -101,6 +101,13 @@ public class Test extends KIntroductionActivity {
 ```
 If you need add more code you can override methods to give new features.
 
+You can override defaults values making new ones on your proyect.
+```xml
+    <dimen name="img_fragment_height">100dp</dimen>
+    <dimen name="img_fragment_width">300dp</dimen>
+    <dimen name="img_fragment_margin">7dp</dimen>
+```
+
 
 ______
 ![enter image description here][1]
