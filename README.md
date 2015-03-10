@@ -34,7 +34,7 @@ To use create java class Test and extend from KIntroductionActivity, them add th
 ```xml
         <activity
             android:name=".Test"
-            android:label="@string/title_activity_treatment_list" >
+            android:label="@string/title_activity" >
         </activity>
 
 ```
