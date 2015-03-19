@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#5ec5ed</color>
+    <color name="primary_dark">#5ec5ed</color>
+    <color name="dot_on">#5ec5ed</color>
+    <color name="dot_off">#0e4a61</color>
+    <color name="title">#0e4a61</color>
+    <color name="text">#FFFFFF</color>
+</resources>

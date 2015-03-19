@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"> kintroductionfragment Demo</string>
+
+
+
+    <string name="title1">Titulo 1</string>
+    <string name="text1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus mauris et laoreet bibendum. Morbi suscipit convallis magna, nec elementum metus fermentum nec. Sed sed risus ac risus faucibus consequat. Nam eget ante non massa venenatis tempor. Aliquam a rutrum tellus, id vestibulum dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris iaculis purus vel dui ornare tincidunt. Sed ultricies auctor suscipit. Phasellus porta auctor vestibulum. Donec scelerisque velit enim, at commodo elit pellentesque gravida.</string>
+    <string name="title2">Titulo 2</string>
+    <string name="text2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus mauris et laoreet bibendum. Morbi suscipit convallis magna, nec elementum metus fermentum nec. Sed sed risus ac risus faucibus consequat. Nam eget ante non massa venenatis tempor. Aliquam a rutrum tellus, id vestibulum dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris iaculis purus vel dui ornare tincidunt. Sed ultricies auctor suscipit. Phasellus porta auctor vestibulum. Donec scelerisque velit enim, at commodo elit pellentesque gravida.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rhoncus mauris et laoreet bibendum. Morbi suscipit convallis magna, nec elementum metus fermentum nec. Sed sed risus ac risus faucibus consequat. Nam eget ante non massa venenatis tempor. Aliquam a rutrum tellus, id vestibulum dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris iaculis purus vel dui ornare tincidunt. Sed ultricies auctor suscipit. Phasellus porta auctor vestibulum. Donec scelerisque velit enim, at commodo elit pellentesque gravida.</string>
+
+    <string name="title3">Titulo 3</string>
+    <string name="text3">Fusce orci ex, cursus quis nunc ut, auctor pulvinar ipsum.</string>
+    <string name="title4">Titulo 4</string>
+</resources>
