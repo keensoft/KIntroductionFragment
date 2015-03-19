@@ -26,6 +26,27 @@ dependencies {
 }
 ```
 
+### Gradle Installation
+Add to the repository:
+```java
+allprojects {
+    repositories {
+        jcenter()
+        maven { url 'https://raw.githubusercontent.com/keensoft/KIntroductionFragment/master/sdk/' }
+    }
+}
+```
+Then add to the dependencies:
+```java
+dependencies {
+    dependencies {
+    compile 'es.keensoft:kintroductionfragment:0.5.0'
+}
+}
+```
+
+
+
 
 ## The Process
 
