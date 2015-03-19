@@ -15,8 +15,6 @@ import es.keensoft.kintroductionfragment.R;
 
 public class TitleAndTextFragment extends Fragment {
 
-    public static final String PATH = "es.keensoft.kintroductionfragment.fragments.TitleAndTextFragment";
-
     private static final String ARG_TITLE = "title";
     private static final String ARG_TEXT = "text";
     private static final String TAG = "TitleAndText";

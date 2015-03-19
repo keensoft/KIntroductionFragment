@@ -5,7 +5,8 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textStyle="bold"
+        android:textSize="@dimen/title_size"
         android:textColor="@color/title"
         android:id="@+id/title" />
     <LinearLayout
@@ -24,14 +25,13 @@
             android:layout_height="wrap_content"
             android:textColor="@color/title"
             android:layout_marginTop="@dimen/activity_vertical_margin"
-            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="@dimen/text_size"
             android:id="@+id/text" />
     </ScrollView>
 
     <ImageView
-        android:layout_width="@dimen/img_fragment_width"
-        android:layout_height="@dimen/img_fragment_height"
-        android:layout_margin="@dimen/img_fragment_margin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/img_fragment_margin_bottom"
         android:id="@+id/imageView"
         android:layout_gravity="center" />
