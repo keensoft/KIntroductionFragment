@@ -1,6 +1,6 @@
 KIntroductionFragment
 ======================
-->![ScreenShot]( "Screen")<-
+
 
 .. image:: https://raw.githubusercontent.com/keensoft/KIntroductionFragment/master/Screenshot.png
     :alt: Screen
