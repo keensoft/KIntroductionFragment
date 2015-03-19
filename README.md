@@ -1,6 +1,8 @@
 KIntroductionFragment
 ======================
 
+![alt text](https://raw.githubusercontent.com/keensoft/KIntroductionFragment/master/Screenshot.png "ScreenShot")
+    
 #####NOTICE:
 
 Initial version 0.5.0
@@ -112,7 +114,10 @@ public class Test extends KIntroductionActivity {
         data.setBackGroundResource(R.drawable.helpbg);
         setDataToDisplay(data);
     }
+    @Override
+    public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
 
+    }
     @Override
     protected void attachBaseContext(Context newBase) {
         super.attachBaseContext(CalligraphyContextWrapper.wrap(newBase));
