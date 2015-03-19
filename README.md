@@ -5,7 +5,10 @@ KIntroductionFragment
 .. image:: https://raw.githubusercontent.com/keensoft/KIntroductionFragment/master/Screenshot.png
     :alt: Screen
     :width: 679
+    :height: 781
     :align: center
+    
+    
 #####NOTICE:
 
 Initial version 0.5.0
