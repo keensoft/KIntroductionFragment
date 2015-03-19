@@ -20,7 +20,7 @@ android {
             repositories.mavenDeployer {
                 pom.groupId = 'es.keensoft'
                 pom.artifactId = 'kintroductionfragment'
-                pom.version = '"0.5.0'
+                pom.version = '0.5.0'
                 // Add other pom properties here if you want (developer details / licenses)
                 repository(url: "file:///home/david/tools/WorkSpace/smartherapy/github/KIntroductionLibrary/library/master/")
             }
