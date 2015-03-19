@@ -1,7 +1,7 @@
 KIntroductionFragment
 ======================
 
-<p align="center">![alt text](https://raw.githubusercontent.com/keensoft/KIntroductionFragment/master/Screenshot.png "ScreenShot")</p>
+![alt text](https://raw.githubusercontent.com/keensoft/KIntroductionFragment/master/Screenshot.png "ScreenShot")
     
 #####NOTICE:
 
