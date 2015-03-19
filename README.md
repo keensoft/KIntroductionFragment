@@ -1,6 +1,6 @@
 KIntroductionFragment
 ======================
-![Screen](https://raw.githubusercontent.com/keensoft/KIntroductionFragment/master/Screenshot.png "Screen")
+![ScreenShot](https://raw.githubusercontent.com/keensoft/KIntroductionFragment/master/Screenshot.png "Screen")
 #####NOTICE:
 
 Initial version 0.5.0
