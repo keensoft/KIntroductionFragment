@@ -42,12 +42,10 @@ Then add to the dependencies:
 ```java
 dependencies {
     dependencies {
-    compile 'es.keensoft:kintroductionfragment:0.5.0'
-}
+        compile 'es.keensoft:kintroductionfragment:0.5.0'
+    }
 }
 ```
-
-
 
 
 ## The Process
